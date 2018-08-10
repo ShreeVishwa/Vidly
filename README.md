@@ -1,0 +1,2 @@
+This is the backend for an online video rental app named Vidly. It has been developed using the Node, Express and Mongodb.
+It consists of authorization, authentication, error handling and logging along with the unit tests.
